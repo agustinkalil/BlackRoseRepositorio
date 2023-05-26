@@ -1,5 +1,12 @@
 @media screen and (max-width: 576px) and (min-width:100px)
      {
+        .serviciomobile{
+            padding-left: 15px;
+        }
+        .navbar-mia{
+            justify-content: start;
+        }
+       
         .blackrosetitulo {
             
            align-items: start;
@@ -11,7 +18,7 @@
             height: 50%;
         }
         p, h5, li{
-            font-size: small;
+            font-size: medium;
         }
         h2{
             font-size: medium;
@@ -28,4 +35,19 @@
         .contenedor-comprar{
             padding-left: 150px;
         }
+        .MyM{
+           padding-left: 16px; 
+           padding-right: 16px;
+        }
+        .mibiografia{
+            padding-left: 16px; 
+           padding-right: 16px;
+        }
+        .contenedor-comprar{
+           margin-left: -40px;
+        }
+        .mobilebeat{
+            padding-left: 25px;
+        }
+        
      }

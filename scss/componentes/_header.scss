@@ -12,8 +12,8 @@
                 @include logo
             }
             .navbar-mia{
-                display: flex;
-                justify-content: space-around;
+                
+                justify-content: end;
 
                 .navbar-nav{
                     --bs-nav-link-color: rgb(0, 0, 0);
@@ -22,6 +22,8 @@
                     .color-nav{
                         color: rgb(180, 0, 0);
                         font-size: medium;
+                        --bs-dropdown-link-active-bg: #000000;
+                        
                               }
                            }
              }
