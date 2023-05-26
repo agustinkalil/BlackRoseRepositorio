@@ -170,17 +170,17 @@ footer .container .footer1 .mibotoncito {
   border: 1px darkred solid;
   --bs-btn-hover-bg: #000000;
 }
-footer .container .row .copyright {
+footer .divisiondelfooter .container .row .copyright {
   padding: 50px 20px 50px 20px;
 }
-footer .container .row .titulos {
+footer .divisiondelfooter .container .row .titulos {
   color: rgb(255, 253, 253);
 }
-footer .container .row .redeslogo {
+footer .divisiondelfooter .container .row .redeslogo {
   width: 30px;
   height: 30px;
 }
-footer .container .row ul {
+footer .divisiondelfooter .container .row ul {
   color: aliceblue;
 }
 
